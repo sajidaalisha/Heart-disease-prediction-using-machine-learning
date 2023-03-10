@@ -12,5 +12,7 @@ Logistic Regression,
 Support Vector Machine,
 K-Nearest Neighbours, 
 Random Forest. 
+
+
 Accuracy achieved: 95% (Random Forest)
  

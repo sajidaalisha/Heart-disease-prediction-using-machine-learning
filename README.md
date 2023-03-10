@@ -8,9 +8,9 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 This is a classification problem, with input features as a variety of parameters, and the target variable as a binary variable, predicting whether heart disease is present or not.
 
 Machine Learning algorithms used:
-Logistic Regression
-Support Vector Machine
-K-Nearest Neighbours 
-Random Forest 
+Logistic Regression,
+Support Vector Machine,
+K-Nearest Neighbours, 
+Random Forest. 
 Accuracy achieved: 95% (Random Forest)
  
